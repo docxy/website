@@ -5,7 +5,7 @@ This is the website of AwesomeDocs, made with AwesomeDocs!
 ## Clone
 
 Clone this repository using:
-```
+```bash
 git clone https://github.com/AwesomeDocs/website.git
 ```
 
