@@ -1,6 +1,13 @@
-# AwesomeDocs Starter
+# AwesomeDocs Website
 
-This is a very basic starter for AwesomeDocs.
+This is the website of AwesomeDocs, made with AwesomeDocs!
+
+## Clone
+
+Clone this repository using:
+```
+git clone https://github.com/AwesomeDocs/website.git
+```
 
 ## Install
 
