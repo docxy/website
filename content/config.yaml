@@ -51,7 +51,7 @@ navigation:
         link: "/usage"
   - section: "Reference Guides"
     links:
-      - name: "AwesomeDocs CLI Tool"
+      - name: "CLI Tool"
         link: "/cli"
       - name: "Configuration"
         link: "/config"
