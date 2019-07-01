@@ -47,8 +47,8 @@ navigation:
     links:
       - name: "Install"
         link: "/install"
-      - name: "Usage"
-        link: "/usage"
+      - name: "Quick Start"
+        link: "/start"
   - section: "Reference Guides"
     links:
       - name: "CLI Tool"
