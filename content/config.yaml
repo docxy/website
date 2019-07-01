@@ -1,25 +1,25 @@
 ---
 # Name of the website
 # Defaults to the title (see below)
-site_name: ""
+site_name: "AwesomeDocs"
 
 # URL where the site will live
-site_url: ""
+site_url: "https://awesomedocs.traction.one"
 
 # Title of the website
-title: ""
+title: "AwesomeDocs"
 
 # Description of the website
-description: ""
+description: "An awesome documentation site generator made with Gatsby! So, inherently, it's blazing fast!"
 
 # URL to the logo of your site
-logo: ""
+logo: "https://github.com/AwesomeDocs.png"
 
 # Link to, say GitHub issues, where users can send feedback
-feedback: ""
+feedback: "https://github.com/AwesomeDocs/website/issues"
 
 # Copyright notice that would be placed in the footer
-copyright: "Copyright 2019"
+copyright: "Copyright 2019 - AwesomeDocs"
 
 
 # Accent color of the site
@@ -31,8 +31,6 @@ color: ""
 # This is just an example structure
 # You can modify it any way you like
 links:
-  - name: "Website"
-    link: "https://awesomedocs.traction.one"
   - name: "GitHub"
     link: "https://github.com/AwesomeDocs"
 
@@ -45,9 +43,19 @@ navigation:
     links:
         - name: "Home"
           link: "/"
-  - section: "External"
+  - section: "Getting Started"
     links:
-      - name: "FAQ"
-        link: "/faq"
-      - name: "Help"
-        link: "/help"
+      - name: "Install"
+        link: "/install"
+      - name: "Usage"
+        link: "/usage"
+  - section: "Reference Guides"
+    links:
+      - name: "AwesomeDocs CLI Tool"
+        link: "/cli"
+      - name: "Configuration"
+        link: "/config"
+  - section: "Other"
+    links:
+      - name: "Getting Support"
+        link: "/support"
