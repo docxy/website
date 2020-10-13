@@ -1,0 +1,53 @@
+---
+# Title of the website. Required.
+title: "Docxy"
+
+# Description of the website. Required.
+description: "Docxy is a React based open-source documentation website generator. Build beautiful, blazing fast documentation sites for your projects with just markdown."
+
+# URL to the logo of your site. Optional.
+logo: "https://github.com/Docxy.png"
+
+# Link to the git repository. Optional.
+repository: "https://github.com/docxy"
+
+# Link to the twitter account. Optional.
+twitter: "https://twitter.com/k3rn31p4nic"
+
+# Link to the main website. Optional.
+website: "https://docxy.traction.one"
+
+# Copyright notice that would be placed in the footer. Optional.
+copyright: "Copyright 2020 - Sankarsan Kampa"
+
+# List of links for the header. Optional.
+links:
+- name: "Author"
+  link: "https://traction.one"
+- name: "Author's GitHub"
+  link: "https://github.com/k3rn31p4nic"
+
+# List of items for the navigating the documentation.
+navigation:
+  - section: "Intro"
+    links:
+        - name: "Home"
+          link: "/"
+  - section: "Getting Started"
+    links:
+      - name: "Install"
+        link: "/install"
+      - name: "Quick Start"
+        link: "/start"
+  - section: "Reference Guides"
+    links:
+      - name: "CLI"
+        link: "/cli"
+      - name: "Configuration"
+        link: "/config"
+  - section: "Other"
+    links:
+      - name: "Getting Support"
+        link: "/support"
+      - name: "Migrating from AwesomeDocs"
+        link: "/migration/v2"
