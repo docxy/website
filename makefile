@@ -1,11 +1,11 @@
 init:
-	@awesomedocs init
+	@docxy init
 
 serve:
-	@awesomedocs serve
+	@docxy serve
 
 build:
-	@awesomedocs build
+	@docxy build
 
 deploy: build
-	@gh-pages -d build -b gh-pages -m "Documentation Updated\nPowered by AwesomeDocs"
+	@npx gh-pages -d build -b gh-pages -m "Documentation Updated\nPowered by Docxy"
