@@ -16,7 +16,7 @@ You can directly install it from source simply by running
 the following command:
 
 ```bash
-go get -u github.com/docxy/cli
+go get -u github.com/docxy/docxy
 ```
 
 This will automatically install `docxy` globally.
@@ -24,7 +24,7 @@ This will automatically install `docxy` globally.
 ### Option 2 - Get Binaries
 
 You can directly get the latest version of the Docxy CLI binaries from
-[GitHub Releases](https://github.com/docxy/cli/releases) and place it somewhere
+[GitHub Releases](https://github.com/docxy/docxy/releases) and place it somewhere
 in your `$PATH` so that you can access the `docxy` command from anywhere.
 
 
