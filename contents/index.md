@@ -13,6 +13,8 @@ have to use your precious time to create websites for your project's
 documentations anymore. Using Docxy, you can build and deploy an awesome
 website for your documentations in a few minutes using only Markdown files.
 
+<a href="https://www.producthunt.com/posts/docxy?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-docxy" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=270848&theme=dark" alt="Docxy - Build fast & beautiful documentation websites with markdown. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ---
 
 <note type="Modern web tech without the headache">
