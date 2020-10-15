@@ -4,8 +4,8 @@ init:
 serve:
 	@docxy serve
 
-build:
+generate:
 	@docxy build
 
-deploy: build
+deploy: generate
 	@npx gh-pages -d build -b gh-pages -m "Documentation Updated\nPowered by Docxy"
