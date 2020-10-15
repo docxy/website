@@ -22,10 +22,12 @@ copyright: "Copyright 2020 - Sankarsan Kampa"
 
 # List of links for the header. Optional.
 links:
-- name: "Author"
-  link: "https://traction.one"
+- name: "Release Announcement"
+  link: "https://traction.one/blog/p/1602596262001"
 - name: "Discord"
   link: "https://discord.gg/Z8txJ6a"
+- name: "Author"
+  link: "https://traction.one"
 
 # List of items for the navigating the documentation.
 navigation:
